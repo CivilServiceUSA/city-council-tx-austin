@@ -3,13 +3,6 @@
 __Civil Services__ is a collection of tools that make it possible for citizens to be a part of what is happening in their Local, State & Federal Governments.
 
 
-DEVELOPERS
-===
-
-See **[DEVELOPERS.md](DEVELOPERS.md)** for details on using this repository.  This template, including the rest of the README below, assumes you are starting a new project from scratch, and will be using this template as a base for a new City Council.
-
-**NOTE:**  This project provides no actual data and should ONLY be used as a template for creating new City Council Repositories.
-
 City Council Data for Austin, TX
 ===
 
@@ -29,11 +22,11 @@ Completed Tasks
 
 We have completed the following Data Collection for Austin, TX. [Watch Project](https://github.com/CivilServiceUSA/city-council-tx-austin/subscription) to be notified of updates.
 
-- [ ] City Council Data Created
-- [ ] City Photo Created
-- [ ] Councilor Headshots Created
+- [X] City Council Data Created
+- [X] City Photo Created
+- [X] Councilor Headshots Created
 - [ ] Images Uploaded to CDN
-- [ ] GeoJSON File Created
+- [X] GeoJSON File Created
 - [ ] Published NPM Package
 
 
