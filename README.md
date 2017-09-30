@@ -25,7 +25,7 @@ We have completed the following Data Collection for Austin, TX. [Watch Project](
 - [X] City Council Data Created
 - [X] City Photo Created
 - [X] Councilor Headshots Created
-- [ ] Images Uploaded to CDN
+- [X] Images Uploaded to CDN
 - [X] GeoJSON File Created
 - [ ] Published NPM Package
 
